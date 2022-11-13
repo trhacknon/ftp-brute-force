@@ -14,7 +14,7 @@ FTP auth brute force tool
 
 ### Usage
 
-![usage](https://github.com/shmel3/ftp-brute-force/blob/master/doc/usage.png)
+![usage](https://github.com/trhacknon/ftp-brute-force/blob/master/doc/usage.png)
 
 
 ### Warning
