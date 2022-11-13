@@ -1,9 +1,9 @@
 from colorama import Fore
 
 ### APP HEADERS ###
-__author__ = "Vlad Eliseev"
+__author__ = "trhacknon"
 __license__ = "GNU GPLv3"
-__email__ = "shmelv3@yandex.ru"
+__email__ = "trhacknon@gmail.com"
 __status__ = "Development"
 ### END HEADERS ###
 
