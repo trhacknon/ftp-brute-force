@@ -90,7 +90,7 @@ def define_login_group(login_group):
 
 		login_group.add_argument('-L'
 					, metavar = 'dict.txt'
-					, help = 'Set login dictionary')
+					, help = 'Set login wordlist')
 
 
 def define_password_group(password_group):
@@ -100,7 +100,7 @@ def define_password_group(password_group):
 
 		password_group.add_argument('-P'
 					, metavar = 'dict.txt'
-					, help = 'Set password dictionary')
+					, help = 'Set password wordlist')
 
 
 
